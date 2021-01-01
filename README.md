@@ -1,1 +1,1 @@
-# Fully functionall chat app
+# Fully functional chat app
